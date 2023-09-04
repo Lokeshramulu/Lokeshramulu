@@ -6,8 +6,8 @@
 - Currently iam pursuing Btech final year in CMR college of engineering and technology
 - Computer science(Artificial inteligence & Machine learning)
 - My hobbies are reading books,playing cricket
-Skills::c,c++,java, python
-quick learner
-problem solving
-communication
+Skills::c,c++,java, python,
+quick learner,
+problem solving,
+communication,
 
